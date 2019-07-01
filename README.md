@@ -1,3 +1,4 @@
+# 这个做的不错，fork过来，有时间汉化一下
 # ScriptCommunicator
 ScriptCommunicator is a scriptable cross-platform data terminal which supports serial port (RS232, USB to serial), UDP, TCP client/server, SPI, I2C and CAN.
 All sent and received data can be shown in a console and can be logged in an html and a text log.
